@@ -17,13 +17,13 @@ switch($method){
 
   case "GET":
 
+    echo json_decode("Lucas");
   break;
 
-  case "GET":
+
 
   case "POST";
 
-  
   
    
   break;    

@@ -4,7 +4,7 @@ export function Home() {
   return (
     <div className="container">
       <div className="row mt-5">
-        <Table />
+        <h1>lucas</h1>
       </div>
     </div>
   );
