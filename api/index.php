@@ -21,10 +21,8 @@ switch($method){
   break;
 
 
-
   case "POST";
 
-  
    
   break;    
 }
